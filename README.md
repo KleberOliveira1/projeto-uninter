@@ -215,7 +215,7 @@ RECUSADO
 ## Clonar repositório
 
 ```bash
-git clone https://github.com/Moyses-Zerbieti/projeto-Uninter.git
+https://github.com/KleberOliveira1/projeto-uninter.git
 ```
 
 ---
